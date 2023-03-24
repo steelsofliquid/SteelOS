@@ -1,0 +1,1 @@
+When uploading files for Setup, I had to do this manually by dragging and dropping each sub-directory into GitHub through my browser. There were too many files in the root of the setup files for GitHub to handle at once.
