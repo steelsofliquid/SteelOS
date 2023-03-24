@@ -1,0 +1,7 @@
+Steel OS 1.0 (Released December 14, 1996) List of pre-installed fonts:
+- Arial (including Arial Black)
+- Courier New
+- Franklin Gothic Medium
+- Steel LXIV
+- Times New Roman
+- Verdana
