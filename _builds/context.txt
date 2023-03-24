@@ -1,0 +1,1 @@
+This folder contains the officially released builds found on Scratch, categorized by month. This doesn't include the executable copies.
