@@ -1,0 +1,1 @@
+This folder initially contains over 200 files; I did what I did for Setup and manually uploaded each folder, as each folder usually has less than 100 files.
