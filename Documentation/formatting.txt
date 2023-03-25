@@ -1,0 +1,4 @@
+Formats of Steel OS 3 source (unused/incomplete document)
+
+UI - Program Windows --
+Text: Lucida Sans (12-pt, bold), end of text placed 10 pixels from right, base of text placed 6 pixels above the bottom of the window header.

@@ -1,0 +1,35 @@
+Steel OS 3 Third-Party Developer Policy
+
+25 March 2023 3:48 PM EST
+
+
+If you want to create software for Steel OS, please read this document carefully. It will provide important information you'll need in order to get an idea of what you will need to do in order to create add-ons to Steel OS 3.
+
+Steel OS 3 is a very obscure, stable, and limited platform. It does not come with any third-party programs or software that is not pre-installed that can be downloaded and installed after installation. 
+
+As developing software for the platform involves modification of the project, it is highly recommended that you do not attempt to create software for the platform. It requires skill, experience, and reference. This doesn't mean that it is impossible to create programs for the platform, but it is rather difficult.
+
+In order to develop software for Steel OS 3, you will need the following resources:
+- Scratch 3 Offline Editor
+- Paint.NET 5.0 or later
+- Bandizip 6.20 or later
+- Steel OS source (found on GitHub)
+- The latest stable release of Steel OS
+
+Steel OS 2.3, the latest stable release of Steel OS as of 25 March 2023, does not have a laid-down UI format. The font for the title bar is Lucida Sans, and is used in sizes 9 to 12.
+
+Steel OS 3, on the other hand, uses Lucida Sans 12-point in bold formatting on the title bar. You'll need to create two copies of the base window, one used from "placeholder window standard t.png" and the other from "placeholder window standard o.jpg". The title bar text follows a strict set of guidelines: Right alignment, there must be a 10-pixel gap between the end of the text and the end of the image, and the text must have a 6 pixel gap between the bottom of the text and the bottom of the title bar.
+
+If you review the code of the stock programs, such as Piano or Quanty, it should be easy to develop a program. If you add a frame with contents into your program, you may have to create an error and modify the scripts for opening programs with frames, such as Memo, because having Memo open while another program, such as a drawing program or word processor or even a web browser, could break the programs and possible even the OS.
+
+When you complete the program, export all of the program's sprite files and put them into a separate folder. Proceed to archive this folder into a *.tar file, and then use the *.tar file's file size as the program's file size in File Browser.
+
+Do not modify the build string when developing a program, instead add a decimal point when saving the file with your program to ensure you don't lose any unsaved work. Modify this decimal number every time you save the project.
+
+When you're done building the program and applying it, you may send the program to me at osholder2019@gmail.com for me to review the program. There's a high chance I won't actually review the program, especially if it is contained in an archived/compressed folder.
+
+IF YOU SEND IN YOUR PROGRAM FOR ME TO REVIEW, DO NOT SEND IT IN A *.ZIP FILE OR WITH OTHER FILES, AND ONLY SEND THE *.SB3 FILE. I HAVE FILE EXTENSIONS ENABLED ON MY SYSTEMS, I WILL BE ABLE TO SEE IF YOU'RE TRYING TO SEND ME MALWARE. I ALSO HAVE AN ANTIVIRUS WITH A MAIL SHIELD.
+
+If the program is good enough, it might be added as a downloadable program for users to get on the main release, if I have your permission.
+
+And there you go. Do not create malware for Steel OS, it's just going to be a waste of time, as it cannot damage your system. Only create malware if it's supposed to be a prank. Steel OS cannot read or write files to a disk, and Scratch's limitations make it impossible to use Scratch to develop malware.

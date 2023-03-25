@@ -1,0 +1,42 @@
+Steel OS 3 End-User License Agreement
+
+By using Steel OS 3, you agree to this document.
+
+
+1. Usage Rights
+
+You are allowed to create content for social media about Steel OS, and you're also allowed to use the source code and create a "remix" of the project (on Scratch), as well as a special variant, but you are not allowed to create a direct clone of the software without changing the branding of the software to not include the Steel OS name, logo, and icon.
+
+Furthermore, this project includes the Quanty web browser created by SteelsOfLiquid for use on Scratch. You're allowed to use the Quanty web browser in your project, but you must give credit to me (SteelsOfLiquid), the creator of the program. If you create a clone of Steel OS using different branding (which if you are making a clone of Steel OS, you should change the branding, to prevent confusion), and do not want to use Quanty, you are allowed to also change the branding of the browser.
+
+This project includes music from the YouTube Audio Library, the tracks are free to use, and do not require additional attribution. You can download the tracks from the YouTube Audio Library in the desktop version of YouTube Studio, but this requires both a Google Account and an "active" YouTube channel, which may require you to be at an age of 13 or older. If you want to use YouTube Studio and you are under the age of 13, ask a parent or legal guardian for permission.
+
+The wallpapers in this project are photos that were taken by me (SteelsOfLiquid), the owner of the project. I allow you to utilitize these pictures in your own project, as long as you do not make modifications to them. The photographs (consisting of the majority of backgrounds) were taken by me using both of my mobile phones - an iPhone 7, and the rest of the pictures were taken with a Google Pixel 7. If you want to see my other pictures, go check out my Instagram. (May require to be of the age of 13 or older to sign up)
+
+This project does not contain third-party/commercial programs and file formats, with the exception of the PDF file format, created by Adobe in 1992 and current developed by the ISO (International Organization for Standardization). System root file formats were developed for use in Steel32 or Steel64 compatible operating system software only. These file formats are not compatible with other kernel families (UNIX, Windows NT, etc.), and you can find a list of these file formats in "extensionlist.txt".
+
+Software used in this project is developed by SteelsOfLiquid using Scratch 3 Desktop for use in Steel32 or Steel64 compatible operating systems, primarily Steel OS. However, you are allowed to use these programs in your own projects, as long as you do not modify the code to make a noticable difference in performance. However, you are allowed to modify the programs' title bar layout to fit in with the rest of your project.
+
+The only programs you're not allowed to use in your own project are File Browser and Setup: These are programs that are designed for use only on SteelXX-based OSes only, and these programs may cause issues when used on other platforms not based on the SteelXX kernel. You may need to make modifications to other programs in order for certain programs to work properly, such as Memo or Paint.
+
+If this section was too long for you to read, let me summarize the section: You may create content about Steel OS; You must rebadge the OS if you want to make a clone of it using all of it's parts, you may use the music and pictures in the project, you cannot change its browser, you can use all programs except for File Browser and Setup, and this project uses special file formats internally.
+
+
+2. Capabilities and Limitations
+
+Steel OS is a very advanced operating system for an OS developed in Scratch. However, it has limitations. Steel OS currently is not capable of reading and writing data to storage media (hard disk, SSD, floppy, CD, DVD, USB, etc.), and it is not capable of connecting to the Internet entirely, as Scratch 3 cannot emulate a complete web browser.
+
+Plus, it cannot save changes to the system upon being entirely stopped, which is why upon shutdown, it says "It is now safe to turn off the system. Press any key to restart." - This is because the system does not come to a complete halt upon shutdown. This is because the system has short-term memory, allowing it to remember what background and other settings were selected in previous sessions upon startup, and the data of a minimized program.
+
+Steel OS also cannot ask for input via a text box. This is not entirely a limitation - Theoretically, it could ask for input, but it cannot do that without bringing up a Scratch 3 prompt, which I prefer to avoid Scratch 3 prompts and display effects, as it causes the system to not appear as realistic and professional. It is definitely possible, but I don't know how to program that.
+
+Steel OS 3 also has other limitations - No easy access third-party support, no camera program, no AI assistant (Scratch 3 does not support AI programming; it was released prior to the rise of modern AI), and not being able to display entirely custom backgrounds without mods/add-ons/plugins which are not supported officially.
+
+Steel OS 3 also is not capable of complete multitasking - you cannot resize a window, maximize/restore a window down, or drag a window. This is entirely possible, but would involve a massive amount of effort and modification to the system's shell.
+
+Steel OS 3 is capable of many things, on the other hand. It is capable of viewing photos, playing music, drawing pictures, doing basic math, viewing a list of files, making music sounds, displaying the time, displaying the shell in multiple visual themes, and categorizing the dock.
+
+Steel OS 3 is also capable of some multitasking - you can have multiple programs open, and minimize programs that are getting in the way. Programs that are minimized can also be restored up.
+
+
+Those are the terms you must agree to, as the end user, in order to use Steel OS 3.

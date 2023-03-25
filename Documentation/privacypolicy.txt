@@ -1,0 +1,10 @@
+Steel OS 3 Privacy Policy
+
+Last Updated: 25 March 2023 3:38 PM EST
+
+
+I, SteelsOfLiquid, the developer of Steel OS, do not collect any information whatsoever about you, the end user. Steel OS 3 is built on a platform that isn't advanced enough to be capable of collecting information. Steel OS doesn't collect any information about you, meaning that your personal information is safe. Steel OS doesn't collect your network or system info, input device controls, etc.
+
+However, any support emails, chats, or phone calls may be recorded and may be placed in a database. This database is not publicly available and is only to help me improve Steel OS and get an idea of what needs to be fixed or patched, since Steel OS is a massive Scratch project and may contain a lot of bugs.
+
+To summarize, Steel OS doesn't collect your information, but I may record or ask for information if you need to contact me for support, since Steel OS doesn't have direct support access outside of comments on the Scratch pages.
