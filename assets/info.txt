@@ -1,0 +1,1 @@
+This folder contains all of the decompiled sprites from Steel OS, starting in Steel OS 3 Build 1852.
