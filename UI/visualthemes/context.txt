@@ -1,0 +1,1 @@
+This folder contains pre-installed visual themes, starting with Steel OS 3 and later.
