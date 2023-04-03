@@ -1,0 +1,120 @@
+Site List (Quanty 12.0.2):
+ - [Domain 1] Browser domain -
+    \_ Homepage
+    \_ About Page
+    \_ No internet error page
+ - [Domain 2] Google -
+    \_ Homepage
+      \_ Search Results - Steel OS
+      \_ Search Results - SteelsOfLiquid
+      \_ Search Results - Wikipedia
+      \_ Search Results - Google
+      \_ Search Results - Bing
+      \_ Search Results - Yahoo
+      \_ Search Results - Seekwise
+      \_ Search Results - search engine
+      \_ Search Results - Quanty
+      \_ Search Results - The web
+      \_ Search Results - YouTube
+      \_ Search Results - Scratch
+      \_ Search Results - ComputeDB
+ - [Domain 3] Bing -
+    \_ Homepage
+      \_ Search Results - Steel OS
+      \_ Search Results - SteelsOfLiquid
+      \_ Search Results - Wikipedia
+      \_ Search Results - Google
+      \_ Search Results - Bing
+      \_ Search Results - Yahoo
+      \_ Search Results - Seekwise
+      \_ Search Results - search engine
+      \_ Search Results - Quanty
+      \_ Search Results - The web
+      \_ Search Results - YouTube
+      \_ Search Results - Scratch
+      \_ Search Results - ComputeDB
+ - [Domain 4] Yahoo -
+    \_ Homepage
+      \_ Search Results - Steel OS
+      \_ Search Results - SteelsOfLiquid
+      \_ Search Results - Wikipedia
+      \_ Search Results - Google
+      \_ Search Results - Bing
+      \_ Search Results - Yahoo
+      \_ Search Results - Seekwise
+      \_ Search Results - search engine
+      \_ Search Results - Quanty
+      \_ Search Results - The web
+      \_ Search Results - YouTube
+      \_ Search Results - Scratch
+      \_ Search Results - ComputeDB
+  - [Domain 4] Seekwise -
+    \_ Homepage
+      \_ Search Results - Steel OS
+      \_ Search Results - SteelsOfLiquid
+      \_ Search Results - Wikipedia
+      \_ Search Results - Google
+      \_ Search Results - Bing
+      \_ Search Results - Yahoo
+      \_ Search Results - Seekwise
+      \_ Search Results - search engine
+      \_ Search Results - Quanty
+      \_ Search Results - The web
+      \_ Search Results - YouTube
+      \_ Search Results - Scratch
+      \_ Search Results - ComputeDB
+ - [Domain 5] Steel OS -
+      \_ Homepage
+      \_ Latest (Steel OS 3)
+        \_ System Requirements
+        \_ Features
+        \_ Download
+      \_ Steel OS 2.x
+        \_ System Requirements
+        \_ Features
+        \_ Download
+        \_ The Future of Steel OS 2.x
+      \_ Steel OS 1.0, 1.2, and 1.73
+        \_ EndOfSupport.html
+        \_ Features
+      \_ About
+        \_ HowYouCanContribute.html
+  - [Domain 6] Scratch -
+      \_ Homepage
+      \_ Profile Page: steelsofliquid
+        \_ Project Page: "Steel OS 3 Beta 1 Build 1852"
+  - [Domain 7] YouTube -
+      \_ Homepage
+      \_ Watch Page
+        \_ "Windows XP in 2023" by SteelsOfLiquid (@steelsofliquid)
+        \_ "HP Pavilion a735w Acquisition and Test" by SteelsOfLiquid (@steelsofliquid)
+        \_ "HP Compaq 6005 Pro Acquisition and Test" by SteelsOfLiquid (@steelsofliquid)
+        \_ "Windows Vista in 2023" by SteelsOfLiquid (@steelsofliquid)
+      \_ Channel Page
+        \_ SteelsOfLiquid (@steelsofliquid)
+          \_ Videos Page
+          \_ About Page
+  - [Domain 8] Wikipedia -
+        \_ Homepage
+        \_ Article Pages
+          \_ Windows 7
+          \_ Dell Dimension
+  - [Domain 9] ComputeDB -
+        \_ Homepage
+  - [Domain 10] "The World Wide Web Project" (CERN, 1992) -
+        \_ "TheProject.html"
+  - [Domain 11] Quanty -
+        \_ Features
+        \_ Download
+        \_ Homepage
+        \_ About
+  - [Domain 12] "steelsofliquid.net" -
+        \_ Homepage
+        \_ About
+        \_ Blog
+
+This entire document, and everything you just saw (and possibly also read) is a complete tree of the Internet on Steel OS 3.0.1.2xx0, in Quanty 12.0.2.
+It is much larger than it was in Steel OS 2.3, which contained only three sites.
+
+*The sites "Seekwise", "Steel OS", "ComputeDB", "Quanty", and "steelsofliquid.net" are not legitimate websites. Please do not try to go to such sites, I
+am not responsible for any damage caused by such websites. Every other website is real, but may not appear in the format it was in for Steel OS 3.
