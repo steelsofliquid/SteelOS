@@ -1,0 +1,10 @@
+This folder contains technical issues with the Steel OS platform, and applicable issues to the Steel32 and Steel64 kernels in their base forms.
+
+This folder may contain:
+  - Shell bugs
+  - Stock program bugs
+  - Unintended behavior
+  - Information of dangerous software
+  - Runtime issues
+
+Each file is a TXT and labelled in the format "KB000000 - [issue name]" (000000 being replaced by the number of the issue).
