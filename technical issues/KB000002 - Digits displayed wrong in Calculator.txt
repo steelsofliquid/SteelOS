@@ -1,0 +1,20 @@
+2023 October 18th
+This issue affects:
+  - Steel OS 2.0
+  - Steel OS 2.3
+  - Steel OS 2.51
+  - Steel OS 3
+  - Steel OS 4 Alpha
+  - Any Steel32 or Steel64 compatible operating systems with the Calculator program from Steel OS
+
+Specifically:
+  - Calculator
+
+First appeared: 2023 January
+
+This issue occurs when you attempt some calculations with an answer less than 1. To trigger this,
+try to do the equation 1.6 - 1.1 in Calculator on Steel OS 2.3 RTM.
+
+After screen recording and trying to find the cause, it was found that this may likely be caused by
+the main display code being "letter 1 of calculator answer" instead of "(letter 1 of calculator answer) + 1".
+A patch will be made in SR-1, PLSR, and OS 4 releases.
