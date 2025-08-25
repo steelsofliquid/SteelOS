@@ -1,0 +1,3 @@
+# Tying up the loose ends of abandoned repos...
+
+Steel OS, namely the original branch, is abandoned. Do not expect to see new content here.
